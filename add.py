@@ -9,3 +9,6 @@ def revert_one():
 
 def add():
     return "add"
+
+def add2():
+    return "add2"
