@@ -6,3 +6,6 @@ def new_feature():
 
 def revert_one():
     return "revert one"
+
+def add():
+    return "add"
